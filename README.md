@@ -8,3 +8,5 @@ An extensible python cookicutter to kickstart projects with a formatter, a compl
 - [ ] Mypy
 - [ ] Pytest
 - [ ] Makefile
+- [ ] Flake8
+- [ ] Pylint
